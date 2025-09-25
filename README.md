@@ -31,7 +31,7 @@ When I'm not coding, you’ll probably find me reading or coming up with new pro
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vrajal99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vrajal99&show_icons=true&theme=radical&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrajal99&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
