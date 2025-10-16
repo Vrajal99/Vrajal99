@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm a developer who loves building things that make life e
 
 ## 🌟 Featured Projects
 
+- [sasya-grocery-app](https://github.com/Vrajal99/sasya-grocery-app): MERN grocery e-commerce—check it out!
 - [city-planning](https://github.com/Vrajal99/city-planning): Urban planning with a tech twist—check it out!
 - [vrajal-chokshi](https://github.com/Vrajal99/vrajal-chokshi): My portfolio site. See what I’m about or grab some inspiration.
 
